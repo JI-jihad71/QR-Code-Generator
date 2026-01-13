@@ -1,0 +1,23 @@
+{
+  "profile": {
+    "name": "আপনার নাম",
+    "picture": ""
+  },
+  "qrHistory": [
+    {
+      "id": 1692547200000,
+      "text": "https://example.com",
+      "imageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https%3A%2F%2Fexample.com",
+      "timestamp": "2023-08-20T10:30:00.000Z",
+      "date": "২০ আগস্ট, ২০২৩, ০৪:৩০ PM"
+    },
+    {
+      "id": 1692460800000,
+      "text": "Welcome to QR Code Generator",
+      "imageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=Welcome%20to%20QR%20Code%20Generator",
+      "timestamp": "2023-08-19T12:15:00.000Z",
+      "date": "১৯ আগস্ট, ২০২৩, ০৬:১৫ PM"
+    }
+  ],
+  "lastUpdated": "2023-08-20T12:45:00.000Z"
+}
